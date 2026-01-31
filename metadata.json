@@ -1,0 +1,5 @@
+{
+  "name": "EWL Hour Calculator Pro",
+  "description": "A professional tool for calculating work hours from complex Excel timesheets with automated shift pattern recognition and segment analysis.",
+  "requestFramePermissions": []
+}
